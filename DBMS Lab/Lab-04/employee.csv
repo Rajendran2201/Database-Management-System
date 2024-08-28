@@ -1,0 +1,8 @@
+employee_id,employee_name,salary,department_id
+1,John Doe,60000,1
+2,Jane Smith,75000,1
+3,Emily Davis,50000,2
+4,Michael Brown,55000,3
+5,Sarah Wilson,80000,3
+6,David Johnson,30000,
+7,Linda Garcia,65000,2

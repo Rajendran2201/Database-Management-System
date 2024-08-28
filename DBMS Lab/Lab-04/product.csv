@@ -1,0 +1,6 @@
+product_id,product_name,price,quantity_in_stock
+1,Product A,10.00,0
+2,Product B,15.00,5
+3,Product C,20.00,0
+4,Product D,25.00,10
+5,Product E,30.00,2
